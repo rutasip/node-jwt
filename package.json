@@ -1,0 +1,23 @@
+{
+  "name": "node-jwt",
+  "version": "1.0.0",
+  "description": "Node.js API authentification with JWT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutasip/node-jwt.git"
+  },
+  "author": "rutasip",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rutasip/node-jwt/issues"
+  },
+  "homepage": "https://github.com/rutasip/node-jwt#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
